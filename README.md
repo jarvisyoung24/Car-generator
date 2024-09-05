@@ -28,4 +28,4 @@ Type matches expected vehicle categories.
 Error messages will be displayed if any input is invalid.
 
 
-[![Watch the video] Untitled Video September 5, 2024 6:17 PM.webm
+[![Watch the video] (https://raw.githubusercontent.com/username/repository/branch/path/to/)
