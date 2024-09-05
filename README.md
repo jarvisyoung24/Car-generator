@@ -26,3 +26,6 @@ Weight is a positive number.
 Model is a non-empty string.
 Type matches expected vehicle categories.
 Error messages will be displayed if any input is invalid.
+
+
+[![Watch the video] (https://raw.githubusercontent.com/username/repository/branch/path/to/Untitled Video September 5, 2024 6:1)
