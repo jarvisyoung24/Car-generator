@@ -81,7 +81,7 @@ Usage
 
 Run npm start to start the command-line interface.
 
--Input Details:
+- Input Details:
 
 Enter the vehicle’s weight (positive number), model (non-empty string), and type (e.g., Sedan, SUV, Cruiser).
 
