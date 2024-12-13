@@ -6,6 +6,7 @@ Description
 The Vehicle Generator is a command-line application designed to create, classify, and interact with various vehicle types. This project allows users to build vehicles, select from existing ones, and perform actions with them. The tool has been updated to include support for cars, trucks, and motorbikes.
 
 Key Features
+-------------
 
 Vehicle Creation: Create new vehicles by inputting details such as weight, model, and type.
 
@@ -33,7 +34,6 @@ As a developer, I want to update an existing application to include additional v
 Acceptance Criteria
 --------------------
 
-Vehicle Creation
 
 GIVEN a command-line application that accepts user input
 
@@ -69,23 +69,19 @@ Prerequisites
 
 Node.js: Ensure Node.js is installed on your machine.
 
-Steps
-
-Install dependencies:
-
 npm install
 
-Start the application:
+- Start the application:
 
 npm start
 
 Usage
 
-Launch the Application:
+- Launch the Application:
 
 Run npm start to start the command-line interface.
 
-Input Details:
+-Input Details:
 
 Enter the vehicle’s weight (positive number), model (non-empty string), and type (e.g., Sedan, SUV, Cruiser).
 
